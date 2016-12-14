@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "9dff956e361199169924b26dd22f1293",
+    "pageAccessToken": "EAACOMKQ6GBoBAPDrEouquLzMORlQxgQCggzF6bBWA2QMQcrIZAzTl6YDP4HW0ahn4YcBOFGts2advrjr0NIc2Pc059g6xcUZCeeVOALQsfH44t9W75AUmUkHdtDkruKEZAJ2SbzKw6hWNTyUChghkyXpNqeKEmXQP0aFazeUgZDZD",
+    "validationToken": "chatbots_fb_messenger_demo_validation_token",
+    "serverURL": "https://chatbots-fb-messenger-demo.herokuapp.com/"
 }
